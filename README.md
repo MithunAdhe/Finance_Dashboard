@@ -205,18 +205,6 @@ This dashboard can be used by:
 
 ---
 
-# 🚀 Future Improvements
-
-Planned upgrades:
-
-- Add forecasting & predictive analytics
-- Connect live financial data sources
-- Add mobile responsive layout
-- Automate data refresh using Python
-- Add anomaly detection for unusual spending
-
----
-
 # ▶️ How to Use
 
 1. Download this repository
@@ -228,29 +216,6 @@ Finance_Dashboard.pbix
 
 4. Click **Refresh Data**
 5. Explore the dashboard using filters & slicers
-
----
-
-# 📁 Project Structure
-
-Finance-Dashboard/
-│
-├── Data/
-│ └── Finance Dataset.xlsx
-│
-├── PowerBI/
-│ ├── Finance_Dashboard.pbix
-│ └── measure.pbix
-│
-├── Presentation/
-│ ├── Finance_Dashboard_Presentation.pdf
-│ └── Finance_Dashboard_Presentation.pptx
-│
-├── Media/
-│ └── Dashboard Recording.mp4
-│
-└── README.md
-
 
 ---
 
